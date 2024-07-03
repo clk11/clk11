@@ -13,10 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/clk11](https://github.com/clk11)
 
-- 💬 Ask me about **react, nodejs, C#**
-
-- 📫 How to reach me **trasca.robert2003@gmail.com**
-
 - 📄 Know about my experiences [https://clk11.github.io/](https://clk11.github.io/)
 
 <h3 align="left">Connect with me:</h3>
