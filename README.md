@@ -6,7 +6,7 @@
 # 📊 GitHub Stats
 
 <div align="center">
-  <img style="width:25rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clk11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img style="width:35rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clk11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   <br/>
   <img style="width:30rem" src="https://github-readme-streak-stats.herokuapp.com/?user=clk11&theme=tokyonight&hide_border=false" />
 </div>
